@@ -1,0 +1,29 @@
+# Local CAD drawings, locks and recovery files
+*.dwg
+*.dxf
+*.dwl
+*.dwl2
+*.bak
+*.sv$
+*.ac$
+
+# Local development artifacts and archives
+/work/
+/outputs/
+/_local_archive/
+/backups/
+/profile*/
+*.log
+*.tmp
+*.temp
+*.zip
+*.7z
+*.swp
+*~
+
+# Local credentials and OS metadata
+.env
+.env.*
+.DS_Store
+Thumbs.db
+desktop.ini
