@@ -1,4 +1,4 @@
-# 3A — True 3D Arc Through Three Points
+# 3A - True 3D Arc Through Three Points
 
 Copyright (c) 2026 Dzmitry Tsiapkin. All rights reserved.
 
